@@ -48,3 +48,5 @@ The architecture is composed of four main layers:
 2. SQL Transformation
 3. Analytical Model
 4. Dashboard & Business Metrics
+
+![Solution Architecture](images/architecture.png)
