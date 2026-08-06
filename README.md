@@ -113,23 +113,8 @@ tracking-investment/
 └── README.md
 ```
 
-## Technical Documentation
+## 📄 Documentation
 
-A complete technical document is included with this project, describing the solution from both business and technical perspectives.
+The complete technical documentation is available below.
 
-The documentation includes:
-
-- Business context
-- Solution objectives
-- Data model
-- Business rules
-- Dashboard structure
-- KPI definitions
-- Technical decisions
-- Project architecture
-
-The document is available in:
-
-```text
-docs/technical_documentation.pdf
-```
+➡️ **[Open Technical Documentation](docs/Tracking_Investment_Documentation.pdf)**
