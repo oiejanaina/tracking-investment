@@ -14,5 +14,5 @@ INNER JOIN data_offer_products AS det
 INNER JOIN data_products AS prod
     ON det.product_id = prod.product_id
 WHERE off.offer_name IS NOT NULL
-  AND off.start_date >= DATE_ADD('month', -4, CURRENT_DATE)
+  AND off.start_date >= CURRENT_DATE - INTERVAL '4 months'
   AND off.investment_limit IS NOT NULL;
