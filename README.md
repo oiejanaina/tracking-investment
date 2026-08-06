@@ -37,3 +37,14 @@ Tracking Investment was designed as an end-to-end analytics solution that centra
 The solution enables continuous monitoring of campaign budgets, supports proactive investment management and provides business indicators to identify optimization opportunities throughout the campaign lifecycle.
 
 By combining SQL transformations, a semantic model in Power BI and business rules implemented with DAX, the project delivers reliable metrics for operational and strategic decision-making.
+
+## Solution Architecture
+
+The solution follows a simple analytical pipeline, transforming fictional operational data into business insights through SQL and Power BI.
+
+The architecture is composed of four main layers:
+
+1. Data Sources
+2. SQL Transformation
+3. Analytical Model
+4. Dashboard & Business Metrics
