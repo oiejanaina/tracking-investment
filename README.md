@@ -102,17 +102,19 @@ tracking-investment/
 │   ├── data_products.csv
 │   └── data_offer_products.csv
 │
+├── dax/  
+│     └── key-dax-measures.md
+│
+├── docs/
+│    └── Tracking_Investment_Documentation.pdf
+│ 
 ├── images/
 │   ├── architecture.png
 │   ├── dashboard-investment.png
 │   └── dashboard-export.png
-│
+│ 
 ├── sql/
 │   └── tracking_investment.sql
-│
-├── docs/
-│ 
-├──Tracking_Investment_Documentation.pdf
 │
 └── README.md
 ```
