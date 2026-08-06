@@ -1,19 +1,23 @@
-# Tracking Investment
+# 📊 Tracking Investment
 
-> Analytics Engineering project developed to monitor and optimize the consumption of investment budgets allocated to CRM campaigns.
+Analytics Engineering project developed to monitor and optimize CRM campaign investment consumption through interactive dashboards and business-driven metrics.
+
+---
 
 ## Project Overview
 
-The **Tracking Investment** project simulates an analytical solution for monitoring investment budgets assigned to promotional campaigns.
+Tracking Investment is an end-to-end analytics project that simulates a real-world solution for monitoring promotional campaign budgets.
 
-The solution consolidates offer, product and investment data, enabling the analysis of budget consumption throughout the campaign lifecycle and supporting operational decision-making.
+The project combines SQL, PostgreSQL and Power BI to transform operational campaign data into actionable business insights, supporting investment optimization throughout the campaign lifecycle.
+
+---
 
 ## Tech Stack
 
-| Technology | Role in the Project |
-|---|---|
-| PostgreSQL | Storage and querying of fictional datasets |
-| SQL | Data joins, filters and preparation |
-| Power BI | Data modeling and dashboard development |
-| DAX | Metrics, projections and business rules |
-| CSV | Fictional source datasets |
+| Technology | Purpose |
+|------------|---------|
+| PostgreSQL | Data storage |
+| SQL | Data extraction and transformation |
+| Power BI | Dashboard development |
+| DAX | Business metrics and calculations |
+| CSV | Sample datasets |
