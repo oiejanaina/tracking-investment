@@ -29,3 +29,11 @@ CRM campaigns receive predefined investment budgets that must be consumed during
 Without centralized monitoring, campaign performance becomes difficult to track, making it challenging to identify underutilized budgets, campaigns approaching their investment limit, or opportunities to redistribute available funds.
 
 As a result, decision-making depends on manual analysis, increasing operational effort and reducing the efficiency of investment management.
+
+## Solution Overview
+
+Tracking Investment was designed as an end-to-end analytics solution that centralizes campaign, product and investment data into a single analytical model.
+
+The solution enables continuous monitoring of campaign budgets, supports proactive investment management and provides business indicators to identify optimization opportunities throughout the campaign lifecycle.
+
+By combining SQL transformations, a semantic model in Power BI and business rules implemented with DAX, the project delivers reliable metrics for operational and strategic decision-making.
