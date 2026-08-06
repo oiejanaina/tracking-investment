@@ -76,3 +76,11 @@ Both perspectives share the same KPIs, calculations and decision-making process.
 
 ![Investment Tracking Dashboard](images/dashboard-investment.png)
 
+## Excel Export View
+
+In addition to the analytical dashboard, the solution provides a standardized export view designed to support operational processes.
+
+The exported dataset follows a predefined structure, allowing campaign information to be consumed by external processes while maintaining consistency with the analytical model.
+
+![Excel Export View](images/dashboard-export.png)
+
