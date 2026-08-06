@@ -84,3 +84,11 @@ The exported dataset follows a predefined structure, allowing campaign informati
 
 ![Excel Export View](images/dashboard-export.png)
 
+## Dataset
+
+This project uses a fully fictional dataset created exclusively for portfolio purposes.
+
+The dataset reproduces the structure and business relationships of a real-world CRM investment management solution while preserving data confidentiality.
+
+The sample data is available in the `/datasets` directory.
+
