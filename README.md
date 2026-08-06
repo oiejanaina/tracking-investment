@@ -21,3 +21,11 @@ The project combines SQL, PostgreSQL and Power BI to transform operational campa
 | Power BI | Dashboard development |
 | DAX | Business metrics and calculations |
 | CSV | Sample datasets |
+
+## Business Problem    
+
+CRM campaigns receive predefined investment budgets that must be consumed during their active period.
+
+Without centralized monitoring, campaign performance becomes difficult to track, making it challenging to identify underutilized budgets, campaigns approaching their investment limit, or opportunities to redistribute available funds.
+
+As a result, decision-making depends on manual analysis, increasing operational effort and reducing the efficiency of investment management.
