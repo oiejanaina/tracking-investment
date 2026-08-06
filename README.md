@@ -92,3 +92,23 @@ The dataset reproduces the structure and business relationships of a real-world 
 
 The sample data is available in the `/datasets` directory.
 
+## Repository Structure
+
+```text
+tracking-investment/
+│
+├── datasets/
+│   ├── data_offers.csv
+│   ├── data_products.csv
+│   └── data_offer_products.csv
+│
+├── images/
+│   ├── architecture.png
+│   ├── dashboard-investment.png
+│   └── dashboard-export.png
+│
+├── sql/
+│   └── tracking_investment.sql
+│
+└── README.md
+```
