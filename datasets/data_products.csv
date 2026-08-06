@@ -1,0 +1,241 @@
+﻿product_id,brand,manufacturer,product_name
+100001,Alivium,NovaMed Labs,Alivium Capsules 30 units
+100002,Alivium,NovaMed Labs,Alivium Gel 100 g
+100003,Alivium,NovaMed Labs,Alivium Cream 60 g
+100004,Alivium,NovaMed Labs,Alivium Cream 60 g
+100005,Alivium,NovaMed Labs,Alivium Tablets 20 units
+100006,Alivium,NovaMed Labs,Alivium Pack 12 units
+100007,Alivium,NovaMed Labs,Alivium Syrup 120 ml
+100008,Alivium,NovaMed Labs,Alivium Solution 30 ml
+100009,Alivium,NovaMed Labs,Alivium Capsules 30 units
+100010,Alivium,NovaMed Labs,Alivium Supplement 60 capsules
+100011,CardioLife,NovaMed Labs,CardioLife Cream 60 g
+100012,CardioLife,NovaMed Labs,CardioLife Syrup 120 ml
+100013,CardioLife,NovaMed Labs,CardioLife Tablets 20 units
+100014,CardioLife,NovaMed Labs,CardioLife Solution 30 ml
+100015,CardioLife,NovaMed Labs,CardioLife Gel 100 g
+100016,CardioLife,NovaMed Labs,CardioLife Pack 12 units
+100017,CardioLife,NovaMed Labs,CardioLife Capsules 30 units
+100018,CardioLife,NovaMed Labs,CardioLife Syrup 120 ml
+100019,CardioLife,NovaMed Labs,CardioLife Gel 100 g
+100020,CardioLife,NovaMed Labs,CardioLife Supplement 60 capsules
+100021,Respira,NovaMed Labs,Respira Capsules 30 units
+100022,Respira,NovaMed Labs,Respira Gel 100 g
+100023,Respira,NovaMed Labs,Respira Syrup 120 ml
+100024,Respira,NovaMed Labs,Respira Gel 100 g
+100025,Respira,NovaMed Labs,Respira Cream 60 g
+100026,Respira,NovaMed Labs,Respira Tablets 20 units
+100027,Respira,NovaMed Labs,Respira Supplement 60 capsules
+100028,Respira,NovaMed Labs,Respira Capsules 30 units
+100029,Respira,NovaMed Labs,Respira Solution 30 ml
+100030,Respira,NovaMed Labs,Respira Gel 100 g
+100031,Dermacare,Aurora Pharma,Dermacare Gel 100 g
+100032,Dermacare,Aurora Pharma,Dermacare Syrup 120 ml
+100033,Dermacare,Aurora Pharma,Dermacare Tablets 20 units
+100034,Dermacare,Aurora Pharma,Dermacare Gel 100 g
+100035,Dermacare,Aurora Pharma,Dermacare Solution 30 ml
+100036,Dermacare,Aurora Pharma,Dermacare Syrup 120 ml
+100037,Dermacare,Aurora Pharma,Dermacare Capsules 30 units
+100038,Dermacare,Aurora Pharma,Dermacare Solution 30 ml
+100039,Dermacare,Aurora Pharma,Dermacare Solution 30 ml
+100040,Dermacare,Aurora Pharma,Dermacare Syrup 120 ml
+100041,HidraSkin,Aurora Pharma,HidraSkin Tablets 20 units
+100042,HidraSkin,Aurora Pharma,HidraSkin Capsules 30 units
+100043,HidraSkin,Aurora Pharma,HidraSkin Gel 100 g
+100044,HidraSkin,Aurora Pharma,HidraSkin Gel 100 g
+100045,HidraSkin,Aurora Pharma,HidraSkin Capsules 30 units
+100046,HidraSkin,Aurora Pharma,HidraSkin Cream 60 g
+100047,HidraSkin,Aurora Pharma,HidraSkin Pack 12 units
+100048,HidraSkin,Aurora Pharma,HidraSkin Pack 12 units
+100049,HidraSkin,Aurora Pharma,HidraSkin Syrup 120 ml
+100050,HidraSkin,Aurora Pharma,HidraSkin Supplement 60 capsules
+100051,SonoLeve,Aurora Pharma,SonoLeve Capsules 30 units
+100052,SonoLeve,Aurora Pharma,SonoLeve Tablets 20 units
+100053,SonoLeve,Aurora Pharma,SonoLeve Pack 12 units
+100054,SonoLeve,Aurora Pharma,SonoLeve Solution 30 ml
+100055,SonoLeve,Aurora Pharma,SonoLeve Capsules 30 units
+100056,SonoLeve,Aurora Pharma,SonoLeve Capsules 30 units
+100057,SonoLeve,Aurora Pharma,SonoLeve Solution 30 ml
+100058,SonoLeve,Aurora Pharma,SonoLeve Capsules 30 units
+100059,SonoLeve,Aurora Pharma,SonoLeve Gel 100 g
+100060,SonoLeve,Aurora Pharma,SonoLeve Supplement 60 capsules
+100061,VitaPlus,VitaCore,VitaPlus Syrup 120 ml
+100062,VitaPlus,VitaCore,VitaPlus Syrup 120 ml
+100063,VitaPlus,VitaCore,VitaPlus Tablets 20 units
+100064,VitaPlus,VitaCore,VitaPlus Syrup 120 ml
+100065,VitaPlus,VitaCore,VitaPlus Solution 30 ml
+100066,VitaPlus,VitaCore,VitaPlus Pack 12 units
+100067,VitaPlus,VitaCore,VitaPlus Tablets 20 units
+100068,VitaPlus,VitaCore,VitaPlus Tablets 20 units
+100069,VitaPlus,VitaCore,VitaPlus Tablets 20 units
+100070,VitaPlus,VitaCore,VitaPlus Syrup 120 ml
+100071,EnerVita,VitaCore,EnerVita Capsules 30 units
+100072,EnerVita,VitaCore,EnerVita Gel 100 g
+100073,EnerVita,VitaCore,EnerVita Syrup 120 ml
+100074,EnerVita,VitaCore,EnerVita Capsules 30 units
+100075,EnerVita,VitaCore,EnerVita Cream 60 g
+100076,EnerVita,VitaCore,EnerVita Solution 30 ml
+100077,EnerVita,VitaCore,EnerVita Tablets 20 units
+100078,EnerVita,VitaCore,EnerVita Solution 30 ml
+100079,EnerVita,VitaCore,EnerVita Solution 30 ml
+100080,EnerVita,VitaCore,EnerVita Gel 100 g
+100081,ImunoMax,VitaCore,ImunoMax Gel 100 g
+100082,ImunoMax,VitaCore,ImunoMax Capsules 30 units
+100083,ImunoMax,VitaCore,ImunoMax Pack 12 units
+100084,ImunoMax,VitaCore,ImunoMax Tablets 20 units
+100085,ImunoMax,VitaCore,ImunoMax Gel 100 g
+100086,ImunoMax,VitaCore,ImunoMax Capsules 30 units
+100087,ImunoMax,VitaCore,ImunoMax Capsules 30 units
+100088,ImunoMax,VitaCore,ImunoMax Pack 12 units
+100089,ImunoMax,VitaCore,ImunoMax Capsules 30 units
+100090,ImunoMax,VitaCore,ImunoMax Pack 12 units
+100091,BioFlex,BioPrime,BioFlex Tablets 20 units
+100092,BioFlex,BioPrime,BioFlex Solution 30 ml
+100093,BioFlex,BioPrime,BioFlex Capsules 30 units
+100094,BioFlex,BioPrime,BioFlex Gel 100 g
+100095,BioFlex,BioPrime,BioFlex Tablets 20 units
+100096,BioFlex,BioPrime,BioFlex Gel 100 g
+100097,BioFlex,BioPrime,BioFlex Gel 100 g
+100098,BioFlex,BioPrime,BioFlex Solution 30 ml
+100099,BioFlex,BioPrime,BioFlex Pack 12 units
+100100,BioFlex,BioPrime,BioFlex Tablets 20 units
+100101,GastroBem,BioPrime,GastroBem Solution 30 ml
+100102,GastroBem,BioPrime,GastroBem Cream 60 g
+100103,GastroBem,BioPrime,GastroBem Cream 60 g
+100104,GastroBem,BioPrime,GastroBem Capsules 30 units
+100105,GastroBem,BioPrime,GastroBem Tablets 20 units
+100106,GastroBem,BioPrime,GastroBem Tablets 20 units
+100107,GastroBem,BioPrime,GastroBem Supplement 60 capsules
+100108,GastroBem,BioPrime,GastroBem Tablets 20 units
+100109,GastroBem,BioPrime,GastroBem Supplement 60 capsules
+100110,GastroBem,BioPrime,GastroBem Pack 12 units
+100111,NutriMais,BioPrime,NutriMais Gel 100 g
+100112,NutriMais,BioPrime,NutriMais Tablets 20 units
+100113,NutriMais,BioPrime,NutriMais Cream 60 g
+100114,NutriMais,BioPrime,NutriMais Solution 30 ml
+100115,NutriMais,BioPrime,NutriMais Tablets 20 units
+100116,NutriMais,BioPrime,NutriMais Syrup 120 ml
+100117,NutriMais,BioPrime,NutriMais Solution 30 ml
+100118,NutriMais,BioPrime,NutriMais Supplement 60 capsules
+100119,NutriMais,BioPrime,NutriMais Supplement 60 capsules
+100120,NutriMais,BioPrime,NutriMais Tablets 20 units
+100121,DorFree,CuraMax,DorFree Tablets 20 units
+100122,DorFree,CuraMax,DorFree Gel 100 g
+100123,DorFree,CuraMax,DorFree Tablets 20 units
+100124,DorFree,CuraMax,DorFree Cream 60 g
+100125,DorFree,CuraMax,DorFree Solution 30 ml
+100126,DorFree,CuraMax,DorFree Supplement 60 capsules
+100127,DorFree,CuraMax,DorFree Tablets 20 units
+100128,DorFree,CuraMax,DorFree Cream 60 g
+100129,DorFree,CuraMax,DorFree Pack 12 units
+100130,DorFree,CuraMax,DorFree Gel 100 g
+100131,CalmZen,CuraMax,CalmZen Cream 60 g
+100132,CalmZen,CuraMax,CalmZen Gel 100 g
+100133,CalmZen,CuraMax,CalmZen Syrup 120 ml
+100134,CalmZen,CuraMax,CalmZen Supplement 60 capsules
+100135,CalmZen,CuraMax,CalmZen Tablets 20 units
+100136,CalmZen,CuraMax,CalmZen Supplement 60 capsules
+100137,CalmZen,CuraMax,CalmZen Cream 60 g
+100138,CalmZen,CuraMax,CalmZen Tablets 20 units
+100139,CalmZen,CuraMax,CalmZen Solution 30 ml
+100140,CalmZen,CuraMax,CalmZen Supplement 60 capsules
+100141,BemEstar,CuraMax,BemEstar Pack 12 units
+100142,BemEstar,CuraMax,BemEstar Supplement 60 capsules
+100143,BemEstar,CuraMax,BemEstar Syrup 120 ml
+100144,BemEstar,CuraMax,BemEstar Pack 12 units
+100145,BemEstar,CuraMax,BemEstar Cream 60 g
+100146,BemEstar,CuraMax,BemEstar Supplement 60 capsules
+100147,BemEstar,CuraMax,BemEstar Capsules 30 units
+100148,BemEstar,CuraMax,BemEstar Tablets 20 units
+100149,BemEstar,CuraMax,BemEstar Pack 12 units
+100150,BemEstar,CuraMax,BemEstar Supplement 60 capsules
+100151,OrbeCare,Orbe Health,OrbeCare Cream 60 g
+100152,OrbeCare,Orbe Health,OrbeCare Gel 100 g
+100153,OrbeCare,Orbe Health,OrbeCare Pack 12 units
+100154,OrbeCare,Orbe Health,OrbeCare Cream 60 g
+100155,OrbeCare,Orbe Health,OrbeCare Cream 60 g
+100156,OrbeCare,Orbe Health,OrbeCare Solution 30 ml
+100157,OrbeCare,Orbe Health,OrbeCare Tablets 20 units
+100158,OrbeCare,Orbe Health,OrbeCare Pack 12 units
+100159,OrbeCare,Orbe Health,OrbeCare Tablets 20 units
+100160,OrbeCare,Orbe Health,OrbeCare Syrup 120 ml
+100161,OrbeKids,Orbe Health,OrbeKids Supplement 60 capsules
+100162,OrbeKids,Orbe Health,OrbeKids Capsules 30 units
+100163,OrbeKids,Orbe Health,OrbeKids Gel 100 g
+100164,OrbeKids,Orbe Health,OrbeKids Tablets 20 units
+100165,OrbeKids,Orbe Health,OrbeKids Gel 100 g
+100166,OrbeKids,Orbe Health,OrbeKids Capsules 30 units
+100167,OrbeKids,Orbe Health,OrbeKids Supplement 60 capsules
+100168,OrbeKids,Orbe Health,OrbeKids Cream 60 g
+100169,OrbeKids,Orbe Health,OrbeKids Tablets 20 units
+100170,OrbeKids,Orbe Health,OrbeKids Supplement 60 capsules
+100171,OrbeSenior,Orbe Health,OrbeSenior Syrup 120 ml
+100172,OrbeSenior,Orbe Health,OrbeSenior Syrup 120 ml
+100173,OrbeSenior,Orbe Health,OrbeSenior Gel 100 g
+100174,OrbeSenior,Orbe Health,OrbeSenior Capsules 30 units
+100175,OrbeSenior,Orbe Health,OrbeSenior Capsules 30 units
+100176,OrbeSenior,Orbe Health,OrbeSenior Tablets 20 units
+100177,OrbeSenior,Orbe Health,OrbeSenior Pack 12 units
+100178,OrbeSenior,Orbe Health,OrbeSenior Solution 30 ml
+100179,OrbeSenior,Orbe Health,OrbeSenior Capsules 30 units
+100180,OrbeSenior,Orbe Health,OrbeSenior Pack 12 units
+100181,SomaDerm,SomaCare,SomaDerm Supplement 60 capsules
+100182,SomaDerm,SomaCare,SomaDerm Gel 100 g
+100183,SomaDerm,SomaCare,SomaDerm Syrup 120 ml
+100184,SomaDerm,SomaCare,SomaDerm Solution 30 ml
+100185,SomaDerm,SomaCare,SomaDerm Syrup 120 ml
+100186,SomaDerm,SomaCare,SomaDerm Gel 100 g
+100187,SomaDerm,SomaCare,SomaDerm Cream 60 g
+100188,SomaDerm,SomaCare,SomaDerm Tablets 20 units
+100189,SomaDerm,SomaCare,SomaDerm Cream 60 g
+100190,SomaDerm,SomaCare,SomaDerm Solution 30 ml
+100191,SomaFit,SomaCare,SomaFit Solution 30 ml
+100192,SomaFit,SomaCare,SomaFit Tablets 20 units
+100193,SomaFit,SomaCare,SomaFit Supplement 60 capsules
+100194,SomaFit,SomaCare,SomaFit Tablets 20 units
+100195,SomaFit,SomaCare,SomaFit Pack 12 units
+100196,SomaFit,SomaCare,SomaFit Capsules 30 units
+100197,SomaFit,SomaCare,SomaFit Solution 30 ml
+100198,SomaFit,SomaCare,SomaFit Gel 100 g
+100199,SomaFit,SomaCare,SomaFit Supplement 60 capsules
+100200,SomaFit,SomaCare,SomaFit Solution 30 ml
+100201,SomaVital,SomaCare,SomaVital Tablets 20 units
+100202,SomaVital,SomaCare,SomaVital Solution 30 ml
+100203,SomaVital,SomaCare,SomaVital Syrup 120 ml
+100204,SomaVital,SomaCare,SomaVital Gel 100 g
+100205,SomaVital,SomaCare,SomaVital Pack 12 units
+100206,SomaVital,SomaCare,SomaVital Supplement 60 capsules
+100207,SomaVital,SomaCare,SomaVital Tablets 20 units
+100208,SomaVital,SomaCare,SomaVital Syrup 120 ml
+100209,SomaVital,SomaCare,SomaVital Tablets 20 units
+100210,SomaVital,SomaCare,SomaVital Gel 100 g
+100211,NexumFlex,Nexum Farma,NexumFlex Tablets 20 units
+100212,NexumFlex,Nexum Farma,NexumFlex Gel 100 g
+100213,NexumFlex,Nexum Farma,NexumFlex Capsules 30 units
+100214,NexumFlex,Nexum Farma,NexumFlex Gel 100 g
+100215,NexumFlex,Nexum Farma,NexumFlex Cream 60 g
+100216,NexumFlex,Nexum Farma,NexumFlex Syrup 120 ml
+100217,NexumFlex,Nexum Farma,NexumFlex Capsules 30 units
+100218,NexumFlex,Nexum Farma,NexumFlex Capsules 30 units
+100219,NexumFlex,Nexum Farma,NexumFlex Gel 100 g
+100220,NexumFlex,Nexum Farma,NexumFlex Supplement 60 capsules
+100221,NexumCough,Nexum Farma,NexumCough Solution 30 ml
+100222,NexumCough,Nexum Farma,NexumCough Cream 60 g
+100223,NexumCough,Nexum Farma,NexumCough Supplement 60 capsules
+100224,NexumCough,Nexum Farma,NexumCough Tablets 20 units
+100225,NexumCough,Nexum Farma,NexumCough Solution 30 ml
+100226,NexumCough,Nexum Farma,NexumCough Tablets 20 units
+100227,NexumCough,Nexum Farma,NexumCough Cream 60 g
+100228,NexumCough,Nexum Farma,NexumCough Syrup 120 ml
+100229,NexumCough,Nexum Farma,NexumCough Solution 30 ml
+100230,NexumCough,Nexum Farma,NexumCough Tablets 20 units
+100231,NexumLife,Nexum Farma,NexumLife Syrup 120 ml
+100232,NexumLife,Nexum Farma,NexumLife Gel 100 g
+100233,NexumLife,Nexum Farma,NexumLife Syrup 120 ml
+100234,NexumLife,Nexum Farma,NexumLife Cream 60 g
+100235,NexumLife,Nexum Farma,NexumLife Pack 12 units
+100236,NexumLife,Nexum Farma,NexumLife Pack 12 units
+100237,NexumLife,Nexum Farma,NexumLife Syrup 120 ml
+100238,NexumLife,Nexum Farma,NexumLife Solution 30 ml
+100239,NexumLife,Nexum Farma,NexumLife Solution 30 ml
+100240,NexumLife,Nexum Farma,NexumLife Supplement 60 capsules
