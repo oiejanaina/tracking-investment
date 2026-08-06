@@ -51,18 +51,17 @@ The architecture is composed of four main layers:
 
 ![Solution Architecture](images/architecture.png)
 
-## Dashboard Overview
+## Key Features
 
-The analytical solution is organized into three complementary views, each designed to support a different stage of investment monitoring and decision-making.
+The solution was designed to support proactive investment management through business-oriented indicators and operational monitoring.
 
-### Industry Investment Tracking
+Main capabilities include:
 
-Provides a detailed view of campaign investments by manufacturer, enabling the monitoring of allocated budgets, investment consumption, campaign status and optimization opportunities during the campaign lifecycle.
+- Campaign investment consumption monitoring
+- Budget utilization forecasting
+- Remaining investment calculation
+- Campaign status tracking
+- Investment optimization opportunities
+- Standardized operational export
 
-### Company Investment Tracking
 
-Aggregates campaign performance at the company level, supporting strategic decisions such as budget redistribution, investment prioritization and overall campaign monitoring.
-
-### Excel Export View
-
-Provides a standardized tabular view designed for data export and integration with operational processes, ensuring compatibility with existing business workflows.
