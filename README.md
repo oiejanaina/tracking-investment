@@ -64,4 +64,15 @@ Main capabilities include:
 - Investment optimization opportunities
 - Standardized operational export
 
+## Investment Tracking Dashboard
+
+The dashboard supports campaign investment monitoring through two complementary business perspectives:
+
+- **Vendor-funded campaigns:** monitors investments funded by manufacturers, supporting budget consumption analysis and optimization opportunities.
+
+- **Retailer-funded campaigns:** monitors internally funded campaigns using the same analytical model and business rules, differing only by the investment funding source.
+
+Both perspectives share the same KPIs, calculations and decision-making process.
+
+![Investment Tracking Dashboard](images/dashboard-investment.png)
 
