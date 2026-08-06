@@ -111,7 +111,9 @@ tracking-investment/
 │   └── tracking_investment.sql
 │
 ├── docs/
-│   └── Tracking_Investment_Documentation.pdf
+│ 
+├──Tracking_Investment_Documentation.pdf
+│
 └── README.md
 ```
 
